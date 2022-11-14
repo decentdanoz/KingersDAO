@@ -5,7 +5,7 @@ Created by the HebeSwap TokenFactory: https://easy.hebeswap.com/#/
 https://etcscan.etcdesktop.com/token/0x4499ed0a00eaf71794142a22d052d9361cb5f1ae
 
 
-###Specifications:
+### Specifications:
 
 - Supply: 10,000,000
 - LP Pairing: SHIBC/KNGR
@@ -14,7 +14,7 @@ https://etcscan.etcdesktop.com/token/0x4499ed0a00eaf71794142a22d052d9361cb5f1ae
 - LP will be immediately burned.
 - More details soon.
 
-###Rationale/s and Concepts:
+### Rationale/s and Concepts:
 
 - 10mil multiplied by 10mil = 100 trillion = SHIBC supply.
 - SHIBC was burned with ETC - SHIBC will always be a means to burning ETC. KINGR is born in a similar light.
