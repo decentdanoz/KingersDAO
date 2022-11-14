@@ -22,6 +22,6 @@ https://etcscan.etcdesktop.com/token/0x4499ed0a00eaf71794142a22d052d9361cb5f1ae
 - Open democratised and decentralised are at the core. What belongs to Kingers-KNGR, will belong to the community.
 
 ### Links and Information
-If it isn't here, it isn't real
+If it isn't here, it isn't real - anything else is a counterfeit so give it the middle Kinger.
 
 Kingers Discord: https://discord.gg/dvwbwrrAEU
