@@ -1,6 +1,6 @@
 ## Kingers-KNGR Contract code
 
-This is the original code which was used to deploy Kingers-KNGR to the Ethereum Classic chain. 
+This is the verified code which was used to deploy Kingers-KNGR to the Ethereum Classic chain. 
 
 Created by the HebeSwap TokenFactory: https://easy.hebeswap.com/#/
 
