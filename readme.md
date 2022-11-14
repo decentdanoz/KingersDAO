@@ -36,7 +36,7 @@ KingersDAO Linktree: https://linktr.ee/kingersdao
 <!-- insert
 ---
 title: "README In Static Site (RISS)"
-date: 2021-08-21T10:15:54
+date: 2021-11-14T21:13:54
 ---
 end_insert -->
 <!-- Powered by https://cj.rs/riss -->
