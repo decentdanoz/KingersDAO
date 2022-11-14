@@ -32,15 +32,3 @@ KingersDAO Snapshot: https://snapshot.org/#/kingers.eth
 KingersDAO Linktree: https://linktr.ee/kingersdao
 
 # More details soon.
-
-<!-- insert
----
-title: "README In Static Site (RISS)"
-date: 2021-11-14T21:13:54
----
-end_insert -->
-<!-- Powered by https://cj.rs/riss -->
-<!-- remove -->
-
-# README In Static Site (RISS)
-<!-- end_remove -->
