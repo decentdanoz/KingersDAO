@@ -20,3 +20,8 @@ https://etcscan.etcdesktop.com/token/0x4499ed0a00eaf71794142a22d052d9361cb5f1ae
 - 10mil multiplied by 10mil = 100 trillion = SHIBC supply.
 - SHIBC was burned with ETC - SHIBC will always be a means to burning ETC. KINGR is born in the same light.
 - Open democratised and decentralised are at the core. What belongs to Kingers-KNGR, will belong to the community.
+
+### Links and Information
+If it isn't here, it isn't real
+
+Kingers Discord: https://discord.gg/dvwbwrrAEU
