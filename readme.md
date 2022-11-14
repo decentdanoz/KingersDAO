@@ -25,4 +25,7 @@ https://etcscan.etcdesktop.com/token/0x4499ed0a00eaf71794142a22d052d9361cb5f1ae
 ### Links and Information
 If it isn't here, it isn't real - anything else is a counterfeit so give it the middle Kinger.
 
-Kingers Discord: https://discord.gg/dvwbwrrAEU
+KingersDAO Discord: https://discord.gg/dvwbwrrAEU
+KingersDAO Telegram: https://t.me/KingersDAO
+KingersDAO Snapshot: https://snapshot.org/#/kingers.eth
+KingersDAO Linktree: https://linktr.ee/kingersdao
