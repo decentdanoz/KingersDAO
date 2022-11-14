@@ -14,8 +14,6 @@ https://etcscan.etcdesktop.com/token/0x4499ed0a00eaf71794142a22d052d9361cb5f1ae
 - LP Pairing: SHIBC/KNGR
 - LP Ratio: 0.1% SHIBC supply : 100% KNGR supply = 100b SHIBC* : 10m KNGR <sup>* (100b SHIBC has a 10-12.5 ETC value at the time of writing)</sup>
 
-- More details soon.
-
 ### Rationale/s and Concepts:
 
 - 10mil multiplied by 10mil = 100 trillion = SHIBC supply.
@@ -32,3 +30,5 @@ KingersDAO Telegram: https://t.me/KingersDAO
 KingersDAO Snapshot: https://snapshot.org/#/kingers.eth
 
 KingersDAO Linktree: https://linktr.ee/kingersdao
+
+# More details soon.
