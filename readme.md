@@ -11,7 +11,7 @@ https://etcscan.etcdesktop.com/token/0x4499ed0a00eaf71794142a22d052d9361cb5f1ae
 
 - Supply: 10,000,000
 - LP Pairing: SHIBC/KNGR
-- LP Ratio: 0.1% SHIBC supply : 100% KNGR supply = 100b SHIBC : 10m KNGR <sup>*(100b SHIBC has a 10-12.5 ETC value at the time of writing)</sup>
+- LP Ratio: 0.1% SHIBC supply : 100% KNGR supply = 100b SHIBC* : 10m KNGR <sup>* (100b SHIBC has a 10-12.5 ETC value at the time of writing)</sup>
 - LP will be immediately burned.
 - More details soon.
 
