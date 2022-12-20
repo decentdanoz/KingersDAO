@@ -1,0 +1,40 @@
+body {
+	background-color: #000000;
+	zoom: 100%;
+	font-family: "Consolas", bold;
+	}
+			
+	h1 {
+	font-size: 60px;
+	text-align: center;
+	background-color: #000000;
+	color: white;
+	}
+				
+	h2 {
+  font-size: 50px;
+	text-align: center;
+	padding: 10px;
+	background-color: #000000;
+	color: white;
+	}
+
+	h3 {
+  font-size: 40px;
+	text-align: center;
+	padding: 10px;
+	background-color: #000000;
+	color: white;
+	}
+
+	footer {
+	text-align: center;
+	background-color: #000000;
+	color: white;
+	}
+			
+	gistContainer {
+	width: 90%;
+	margin: 0 auto;
+	text-align: center;
+	}
