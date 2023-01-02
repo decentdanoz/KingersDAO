@@ -32,3 +32,9 @@ KingersDAO Snapshot: https://snapshot.org/#/kingers.eth
 KingersDAO Linktree: https://linktr.ee/kingersdao
 
 # More details soon.
+
+## 2022 LFT Contract Codes
+
+### KNGRgame
+### KNGRbasilisk
+### KNGRhydra
