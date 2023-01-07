@@ -35,7 +35,8 @@ KingersDAO Snapshot (Governance): https://snapshot.org/#/kingers.eth
 
 KingersDAO Linktree: https://linktr.ee/kingersdao (has more links)
 
-HebeSwap KNGR/SHIBC pair: http://hebe.kng.radio/ or https://app.hebeswap.com/#/swap?outputCurrency=0x4499Ed0A00EaF71794142a22D052d9361cB5F1Ae&inputCurrency=0x1FDc495289B590e78d455cf7faa6cd804de5Cbc1
+HebeSwap KNGR/SHIBC pair: http://hebe.kng.radio/ or 
+https://app.hebeswap.com/#/swap?outputCurrency=0x4499Ed0A00EaF71794142a22D052d9361cB5F1Ae&inputCurrency=0x1FDc495289B590e78d455cf7faa6cd804de5Cbc1
 
 - - - - - - - - -
 
