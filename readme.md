@@ -25,13 +25,15 @@ https://etcscan.etcdesktop.com/token/0x4499ed0a00eaf71794142a22d052d9361cb5f1ae
 ### KingersDAO Official Links Repository
 If it isn't here, it isn't real - anything else is a counterfeit so give it the middle Kinger.
 
-KingersDAO Discord: https://discord.gg/dvwbwrrAEU or http://discord.kng.radio/
+Kings Fingers Radio on Discord: https://discord.gg/dvwbwrrAEU or http://discord.kng.radio/
 
-KingersDAO Telegram: https://t.me/KingersDAO or http://telegram.kng.radio/
+Kings Fingers Radio on Telegram: https://t.me/KingersDAO or http://telegram.kng.radio/
 
-KingersDAO Snapshot: https://snapshot.org/#/kingers.eth
+KingersDAO GitBook: https://kingersdao.gitbook.io/kingersdao-1/
 
-KingersDAO Linktree: https://linktr.ee/kingersdao
+KingersDAO Snapshot (Governance): https://snapshot.org/#/kingers.eth
+
+KingersDAO Linktree: https://linktr.ee/kingersdao (has more links)
 
 HebeSwap KNGR/SHIBC pair: http://hebe.kng.radio/ or https://app.hebeswap.com/#/swap?outputCurrency=0x4499Ed0A00EaF71794142a22D052d9361cB5F1Ae&inputCurrency=0x1FDc495289B590e78d455cf7faa6cd804de5Cbc1
 
