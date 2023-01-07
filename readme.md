@@ -9,35 +9,43 @@ https://etcscan.etcdesktop.com/token/0x4499ed0a00eaf71794142a22d052d9361cb5f1ae
 
 ### Specifications:
 
-- Fixed Supply: 10,000,000
-- LP will be immediately burned - time/date TBD.
+- Fixed Supply: 10,000,000 (7m is locked in a multi sig - unspendable due to hostility)
+- LP was immediately burned: https://blockscout.com/etc/mainnet/tx/0x16a670eb69f29cce8d8628f7464cac16128dbbf8c59e2369cd5fea49e22ac9ea
 - LP Pairing: SHIBC/KNGR
-- LP Ratio: 0.1% SHIBC supply : 100% KNGR supply = 100b SHIBC* : 10m KNGR <sup>* (100b SHIBC has a 10-12.5 ETC value at the time of writing)</sup>
+- Additional Info:
+-- 350b SHIBC was burned to 100% KNGR supply.
+-- 100b SHIBC had a 10-12.5 ETC value at the time of pairing
 
 ### Rationale/s and Concepts:
 
-- 10mil multiplied by 10mil = 100 trillion = SHIBC supply.
-- SHIBC was burned with ETC - SHIBC will always be a means to burning ETC. KINGR is born in the same light.
+- 10m x 10m = 100 trillion = SHIBC supply.
+- SHIBC was burned with ETC. KNGR was burned to SHIBC.
 - Open democratised and decentralised are at the core. What belongs to Kingers-KNGR, will belong to the community.
 
 ### KingersDAO Official Links Repository
 If it isn't here, it isn't real - anything else is a counterfeit so give it the middle Kinger.
 
-KingersDAO Discord: https://discord.gg/dvwbwrrAEU
+KingersDAO Discord: https://discord.gg/dvwbwrrAEU or http://discord.kng.radio/
 
-KingersDAO Telegram: https://t.me/KingersDAO
+KingersDAO Telegram: https://t.me/KingersDAO or http://telegram.kng.radio/
 
 KingersDAO Snapshot: https://snapshot.org/#/kingers.eth
 
 KingersDAO Linktree: https://linktr.ee/kingersdao
 
-# More details soon.
+HebeSwap KNGR/SHIBC pair: http://hebe.kng.radio/ or https://app.hebeswap.com/#/swap?outputCurrency=0x4499Ed0A00EaF71794142a22D052d9361cB5F1Ae&inputCurrency=0x1FDc495289B590e78d455cf7faa6cd804de5Cbc1
 
-## 2022 LFT Contract Codes
+- - - - - - - - -
 
-### KNGRgame
+## 2022 LFT Contract Names
+
+### theKNGR
 ### KNGRbasilisk
 ### KNGRhydra
+
+## More info soon!
+
+- - - - - - - - -
 
 # Development process
 
